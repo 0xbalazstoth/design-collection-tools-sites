@@ -37,6 +37,10 @@
 - https://www.freepik.com/
 - https://unsplash.com/
 
+# Image Compressors
+- https://compressor.io/
+- https://tinyjpg.com/
+
 # CSS
 - https://uiverse.io/
 - https://neumorphism.io/
