@@ -56,6 +56,8 @@
 - https://icons8.com/
 - https://fontawesome.com/
 - https://iconscout.com/
+- https://iconify.design/
+- https://icon-sets.iconify.design/
 
 # References
 - https://uxplanet.org/stop-using-dribbble-behance-to-find-design-inspiration-use-these-15-websites-instead-b3a200c82776
