@@ -9,7 +9,6 @@
 # Designs/Pages/Components
 - https://dribbble.com/
 - https://www.behance.net/
-- https://refero.design/
 - https://landdding.com/
 - https://pagecollective.com/
 - https://www.landingfolio.com/
@@ -26,6 +25,9 @@
 - https://www.darkmodedesign.com/
 - https://nicelydone.club/pages/
 - https://webframe.xyz/categories/
+
+# Mobile Designs
+- https://refero.design/
 - https://pageflows.com/
 - https://appshots.design/
 - https://uxarchive.com/
